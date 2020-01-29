@@ -1,4 +1,5 @@
 # Tutorial-Angular-Udemy
+
 RXJS, NGRX, Socket.IO, Animações, APIs Node.js/MongoDB, Autenticação (token/oauth2), Firebase, Formulários e muito mais.
 
 Este curso tem como objetivo apresentar na prática os principais recursos do Angular de maneira fundamentada.
